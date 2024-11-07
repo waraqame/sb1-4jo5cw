@@ -1,0 +1,11 @@
+node_modules
+.env
+.env*.local
+.DS_Store
+*.pem
+.vercel
+dist
+dist-ssr
+*.local
+.vite
+prisma/generated
